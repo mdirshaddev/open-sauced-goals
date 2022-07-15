@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "mhmzdev/the-holy-quran-app",
+    "stargazers_count": 613,
+    "open_issues_count": 0,
+    "forks_count": 175
+  },
+  {
     "full_name": "lewagon/data-templates",
     "stargazers_count": 15,
     "open_issues_count": 3,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "mdirshaddev/mdirshaddev.github.io",
@@ -15,37 +21,37 @@
     "full_name": "kokanek/firebase-react-notifications",
     "stargazers_count": 21,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "dair-ai/ML-Course-Notes",
-    "stargazers_count": 3738,
+    "stargazers_count": 3751,
     "open_issues_count": 1,
     "forks_count": 526
   },
   {
     "full_name": "ml-tooling/best-of-ml-python",
-    "stargazers_count": 10981,
-    "open_issues_count": 1,
-    "forks_count": 1680
+    "stargazers_count": 11096,
+    "open_issues_count": 2,
+    "forks_count": 1702
   },
   {
     "full_name": "uiwjs/react-md-editor",
-    "stargazers_count": 978,
+    "stargazers_count": 980,
     "open_issues_count": 47,
     "forks_count": 94
   },
   {
     "full_name": "bedimcode/responsive-mini-portfolio",
-    "stargazers_count": 256,
+    "stargazers_count": 259,
     "open_issues_count": 1,
     "forks_count": 99
   },
   {
     "full_name": "citusdata/citus",
-    "stargazers_count": 6847,
-    "open_issues_count": 869,
-    "forks_count": 488
+    "stargazers_count": 6854,
+    "open_issues_count": 875,
+    "forks_count": 490
   },
   {
     "full_name": "kheruc/rt-next-motion",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "statsbomb/open-data",
-    "stargazers_count": 1561,
+    "stargazers_count": 1563,
     "open_issues_count": 23,
-    "forks_count": 541
+    "forks_count": 542
   },
   {
     "full_name": "mdirshaddev/icons-repository",
@@ -116,20 +122,20 @@
   {
     "full_name": "AsishRaju/450-DSA",
     "stargazers_count": 1113,
-    "open_issues_count": 7,
+    "open_issues_count": 4,
     "forks_count": 232
   },
   {
     "full_name": "predict-idlab/plotly-resampler",
-    "stargazers_count": 454,
-    "open_issues_count": 26,
+    "stargazers_count": 455,
+    "open_issues_count": 27,
     "forks_count": 27
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 89461,
-    "open_issues_count": 1265,
-    "forks_count": 19232
+    "stargazers_count": 89589,
+    "open_issues_count": 1272,
+    "forks_count": 19269
   },
   {
     "full_name": "patriciamolnar/css-background-animation",
@@ -141,7 +147,7 @@
     "full_name": "brunosimon/folio-2019",
     "stargazers_count": 3006,
     "open_issues_count": 21,
-    "forks_count": 500
+    "forks_count": 499
   },
   {
     "full_name": "DavyBello/graphql-social-auth-tutorial",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "andreasbm/web-skills",
-    "stargazers_count": 5963,
+    "stargazers_count": 5972,
     "open_issues_count": 48,
-    "forks_count": 592
+    "forks_count": 591
   },
   {
     "full_name": "chansen17/creditCardPaymentUI",
@@ -172,11 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "atapas/promiviz",
-    "stargazers_count": 32,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
