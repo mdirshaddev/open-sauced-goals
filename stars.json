@@ -1,5 +1,83 @@
 [
   {
+    "full_name": "hashicorp/terraform-website",
+    "stargazers_count": 151,
+    "open_issues_count": 22,
+    "forks_count": 385
+  },
+  {
+    "full_name": "hashicorp/terraform-provider-tfe",
+    "stargazers_count": 105,
+    "open_issues_count": 73,
+    "forks_count": 101
+  },
+  {
+    "full_name": "sindresorhus/to-fast-properties",
+    "stargazers_count": 219,
+    "open_issues_count": 1,
+    "forks_count": 15
+  },
+  {
+    "full_name": "microsoft/playwright-dotnet",
+    "stargazers_count": 1562,
+    "open_issues_count": 22,
+    "forks_count": 139
+  },
+  {
+    "full_name": "qoomon/maven-git-versioning-extension",
+    "stargazers_count": 245,
+    "open_issues_count": 6,
+    "forks_count": 65
+  },
+  {
+    "full_name": "CodingGarden/fresh-spots",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "reactplay/docs",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "hashicorp/terraform",
+    "stargazers_count": 33595,
+    "open_issues_count": 1657,
+    "forks_count": 7790
+  },
+  {
+    "full_name": "cloudflare/pint",
+    "stargazers_count": 390,
+    "open_issues_count": 2,
+    "forks_count": 17
+  },
+  {
+    "full_name": "flexbox/weshipit.today",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "nrwl/nx-examples",
+    "stargazers_count": 633,
+    "open_issues_count": 36,
+    "forks_count": 299
+  },
+  {
+    "full_name": "tabler/tabler",
+    "stargazers_count": 26365,
+    "open_issues_count": 73,
+    "forks_count": 3048
+  },
+  {
+    "full_name": "nearform/lyra",
+    "stargazers_count": 187,
+    "open_issues_count": 15,
+    "forks_count": 16
+  },
+  {
     "full_name": "mdirshaddev/sharemem",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,7 +85,7 @@
   },
   {
     "full_name": "mhmzdev/the-holy-quran-app",
-    "stargazers_count": 618,
+    "stargazers_count": 619,
     "open_issues_count": 0,
     "forks_count": 176
   },
@@ -27,37 +105,37 @@
     "full_name": "kokanek/firebase-react-notifications",
     "stargazers_count": 22,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "dair-ai/ML-Course-Notes",
-    "stargazers_count": 4706,
+    "stargazers_count": 4730,
     "open_issues_count": 1,
-    "forks_count": 612
+    "forks_count": 614
   },
   {
     "full_name": "ml-tooling/best-of-ml-python",
-    "stargazers_count": 11235,
+    "stargazers_count": 11253,
     "open_issues_count": 2,
-    "forks_count": 1730
+    "forks_count": 1737
   },
   {
     "full_name": "uiwjs/react-md-editor",
-    "stargazers_count": 1004,
-    "open_issues_count": 47,
-    "forks_count": 93
+    "stargazers_count": 1013,
+    "open_issues_count": 45,
+    "forks_count": 92
   },
   {
     "full_name": "bedimcode/responsive-mini-portfolio",
-    "stargazers_count": 263,
+    "stargazers_count": 264,
     "open_issues_count": 1,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "citusdata/citus",
-    "stargazers_count": 6899,
-    "open_issues_count": 874,
-    "forks_count": 492
+    "stargazers_count": 6914,
+    "open_issues_count": 867,
+    "forks_count": 494
   },
   {
     "full_name": "kheruc/rt-next-motion",
@@ -91,92 +169,14 @@
   },
   {
     "full_name": "statsbomb/open-data",
-    "stargazers_count": 1574,
+    "stargazers_count": 1576,
     "open_issues_count": 24,
-    "forks_count": 542
+    "forks_count": 543
   },
   {
     "full_name": "mdirshaddev/icons-repository",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/nodejs-interview-questions",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "swiftype/app-search-demo-react",
-    "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 25
-  },
-  {
-    "full_name": "salvadordeveloper/TikTok-Flutter",
-    "stargazers_count": 803,
-    "open_issues_count": 5,
-    "forks_count": 307
-  },
-  {
-    "full_name": "smcepeda/vevel",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "AsishRaju/450-DSA",
-    "stargazers_count": 1124,
-    "open_issues_count": 6,
-    "forks_count": 237
-  },
-  {
-    "full_name": "predict-idlab/plotly-resampler",
-    "stargazers_count": 465,
-    "open_issues_count": 26,
-    "forks_count": 27
-  },
-  {
-    "full_name": "vercel/next.js",
-    "stargazers_count": 90156,
-    "open_issues_count": 1316,
-    "forks_count": 19434
-  },
-  {
-    "full_name": "patriciamolnar/css-background-animation",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "brunosimon/folio-2019",
-    "stargazers_count": 3007,
-    "open_issues_count": 21,
-    "forks_count": 499
-  },
-  {
-    "full_name": "DavyBello/graphql-social-auth-tutorial",
-    "stargazers_count": 51,
-    "open_issues_count": 3,
-    "forks_count": 10
-  },
-  {
-    "full_name": "remix-run/starter-express",
-    "stargazers_count": 111,
-    "open_issues_count": 0,
-    "forks_count": 31
-  },
-  {
-    "full_name": "andreasbm/web-skills",
-    "stargazers_count": 5988,
-    "open_issues_count": 48,
-    "forks_count": 595
-  },
-  {
-    "full_name": "chansen17/creditCardPaymentUI",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 6
   }
 ]
