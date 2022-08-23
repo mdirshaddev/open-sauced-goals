@@ -1,12 +1,54 @@
 [
   {
+    "full_name": "craftzdog/dotfiles-public",
+    "stargazers_count": 3392,
+    "open_issues_count": 12,
+    "forks_count": 770
+  },
+  {
+    "full_name": "mdirshaddev/service-portal-docs",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/whaaaatsapp",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/web-skills",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/tech-interview-handbook",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/wallis.dev",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/vite",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "VISHNU-KUMAR7/vault",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
-    "full_name": "mdirshaddev/mdirshaddev.github.io-wasted",
+    "full_name": "mdirshaddev/portfolio-nextjs",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
@@ -33,7 +75,7 @@
     "full_name": "mdirshaddev/calendro",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": -1
   },
   {
     "full_name": "mdirshaddev/spotifyapiapp",
@@ -69,7 +111,7 @@
     "full_name": "mdirshaddev/dry-fruit-com",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": -1
   },
   {
     "full_name": "mdirshaddev/hackfest",
@@ -116,8 +158,8 @@
   {
     "full_name": "mdirshaddev/ecommerce-admin-dashbaord",
     "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
+    "open_issues_count": 0,
+    "forks_count": -1
   },
   {
     "full_name": "mdirshaddev/fizzy",
@@ -129,54 +171,12 @@
     "full_name": "mdirshaddev/hackfest-deprecated-",
     "stargazers_count": 1,
     "open_issues_count": 1,
-    "forks_count": 1
+    "forks_count": 0
   },
   {
     "full_name": "mdirshaddev/nodejs-create-release",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/nvm-windows",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/trembles",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 3639,
-    "open_issues_count": 5,
-    "forks_count": 68
-  },
-  {
-    "full_name": "n8n-io/n8n",
-    "stargazers_count": 24040,
-    "open_issues_count": 307,
-    "forks_count": 2842
-  },
-  {
-    "full_name": "hashicorp/terraform-website",
-    "stargazers_count": 152,
-    "open_issues_count": 23,
-    "forks_count": 387
-  },
-  {
-    "full_name": "hashicorp/terraform-provider-tfe",
-    "stargazers_count": 107,
-    "open_issues_count": 76,
-    "forks_count": 103
-  },
-  {
-    "full_name": "sindresorhus/to-fast-properties",
-    "stargazers_count": 220,
-    "open_issues_count": 1,
-    "forks_count": 15
   }
 ]
