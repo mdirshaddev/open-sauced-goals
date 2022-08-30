@@ -1,9 +1,9 @@
 [
   {
     "full_name": "craftzdog/dotfiles-public",
-    "stargazers_count": 3420,
+    "stargazers_count": 3463,
     "open_issues_count": 12,
-    "forks_count": 780
+    "forks_count": 786
   },
   {
     "full_name": "mdirshaddev/service-portal-docs",
@@ -51,7 +51,7 @@
     "full_name": "mdirshaddev/portfolio-nextjs",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": -1
   },
   {
     "full_name": "mdirshaddev/open-sauced-goals",
@@ -81,7 +81,7 @@
     "full_name": "mdirshaddev/spotifyapiapp",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": -1
   },
   {
     "full_name": "mdirshaddev/best-of-ml-python",
@@ -117,13 +117,13 @@
     "full_name": "mdirshaddev/hackfest",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": -1
   },
   {
     "full_name": "mdirshaddev/sharemem-deprecated",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": -1
   },
   {
     "full_name": "mdirshaddev/SeviceNow-Intgerated-IBM-Translator-Application",
@@ -141,19 +141,19 @@
     "full_name": "mdirshaddev/githubql",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": -1
   },
   {
     "full_name": "mdirshaddev/orion",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": -1
   },
   {
     "full_name": "mdirshaddev/devzone",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": -1
   },
   {
     "full_name": "mdirshaddev/ecommerce-admin-dashbaord",
@@ -165,7 +165,7 @@
     "full_name": "mdirshaddev/fizzy",
     "stargazers_count": 1,
     "open_issues_count": 1,
-    "forks_count": 0
+    "forks_count": -1
   },
   {
     "full_name": "mdirshaddev/hackfest-deprecated-",
