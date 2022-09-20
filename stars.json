@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "panagiop/node.js-clean-architecture",
+    "stargazers_count": 108,
+    "open_issues_count": 0,
+    "forks_count": 24
+  },
+  {
+    "full_name": "total-typescript/type-transformations-workshop",
+    "stargazers_count": 491,
+    "open_issues_count": 0,
+    "forks_count": 43
+  },
+  {
     "full_name": "craftzdog/dotfiles-public",
-    "stargazers_count": 3596,
+    "stargazers_count": 3622,
     "open_issues_count": 12,
-    "forks_count": 816
+    "forks_count": 821
   },
   {
     "full_name": "mdirshaddev/service-portal-docs",
@@ -166,17 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 1,
     "forks_count": -1
-  },
-  {
-    "full_name": "mdirshaddev/hackfest-deprecated-",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/nodejs-create-release",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
