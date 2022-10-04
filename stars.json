@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "mdirshaddev/mdirshaddev.github.io",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "panagiop/node.js-clean-architecture",
-    "stargazers_count": 109,
+    "stargazers_count": 114,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "total-typescript/type-transformations-workshop",
-    "stargazers_count": 521,
+    "stargazers_count": 524,
     "open_issues_count": 0,
-    "forks_count": 47
+    "forks_count": 50
   },
   {
     "full_name": "craftzdog/dotfiles-public",
-    "stargazers_count": 3711,
+    "stargazers_count": 3729,
     "open_issues_count": 13,
-    "forks_count": 844
+    "forks_count": 857
   },
   {
     "full_name": "mdirshaddev/service-portal-docs",
@@ -171,12 +177,6 @@
     "full_name": "mdirshaddev/ecommerce-admin-dashbaord",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": -1
-  },
-  {
-    "full_name": "mdirshaddev/fizzy",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
     "forks_count": -1
   }
 ]
