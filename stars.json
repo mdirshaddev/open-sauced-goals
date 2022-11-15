@@ -1,5 +1,65 @@
 [
   {
+    "full_name": "mdirshaddev/next-typescript-pwa-starter",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/dependency-review-action",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/.github",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/next-apollo-graphql-nextauth-prisma-planetscale",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/node-express-postgres-docker-compose",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/nodebestpractices",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/gible",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mdirshaddev/AllAlgoInRust",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "zeroabsolute/Terraform-AWS-ECS",
+    "stargazers_count": 18,
+    "open_issues_count": 0,
+    "forks_count": 12
+  },
+  {
+    "full_name": "mdirshaddev/hackfest",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "OpenSpaceDevelopers/actions",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -13,9 +73,9 @@
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 17123,
-    "open_issues_count": 301,
-    "forks_count": 934
+    "stargazers_count": 17284,
+    "open_issues_count": 299,
+    "forks_count": 948
   },
   {
     "full_name": "mdirshaddev/mdirshaddev.github.io",
@@ -25,21 +85,21 @@
   },
   {
     "full_name": "panagiop/node.js-clean-architecture",
-    "stargazers_count": 128,
+    "stargazers_count": 130,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "total-typescript/type-transformations-workshop",
-    "stargazers_count": 539,
+    "stargazers_count": 540,
     "open_issues_count": 0,
     "forks_count": 58
   },
   {
     "full_name": "craftzdog/dotfiles-public",
-    "stargazers_count": 3948,
+    "stargazers_count": 3972,
     "open_issues_count": 9,
-    "forks_count": 915
+    "forks_count": 922
   },
   {
     "full_name": "mdirshaddev/service-portal-docs",
@@ -115,66 +175,6 @@
   },
   {
     "full_name": "mdirshaddev/spotifyapiapp",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": -1
-  },
-  {
-    "full_name": "mdirshaddev/best-of-ml-python",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/mdirshaddev",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/ML-Course-Notes",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/mlops-zoomcamp",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/dry-fruit-com",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": -1
-  },
-  {
-    "full_name": "mdirshaddev/hackfest",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": -1
-  },
-  {
-    "full_name": "mdirshaddev/sharemem-deprecated",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": -1
-  },
-  {
-    "full_name": "mdirshaddev/SeviceNow-Intgerated-IBM-Translator-Application",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/github-version-tags",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/githubql",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": -1
