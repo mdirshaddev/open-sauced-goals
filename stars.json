@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "dannyhw/react-native-storybook-starter",
+    "stargazers_count": 26,
+    "open_issues_count": 1,
+    "forks_count": 10
+  },
+  {
     "full_name": "mrwade/form-hub",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -39,7 +45,7 @@
     "full_name": "janarosmonaliev/github-globe",
     "stargazers_count": 243,
     "open_issues_count": 2,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "mdirshaddev/next-typescript-pwa-starter",
@@ -54,7 +60,7 @@
     "forks_count": 0
   },
   {
-    "full_name": "mdirshaddev/.github",
+    "full_name": "mdirshaddev/.github-opensauced",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 18219,
-    "open_issues_count": 353,
-    "forks_count": 1045
+    "stargazers_count": 18271,
+    "open_issues_count": 358,
+    "forks_count": 1056
   },
   {
     "full_name": "mdirshaddev/mdirshaddev.github.io",
@@ -127,21 +133,21 @@
   },
   {
     "full_name": "panagiop/node.js-clean-architecture",
-    "stargazers_count": 139,
-    "open_issues_count": 1,
-    "forks_count": 26
+    "stargazers_count": 141,
+    "open_issues_count": 2,
+    "forks_count": 27
   },
   {
     "full_name": "total-typescript/type-transformations-workshop",
-    "stargazers_count": 562,
-    "open_issues_count": 0,
-    "forks_count": 75
+    "stargazers_count": 564,
+    "open_issues_count": 1,
+    "forks_count": 78
   },
   {
     "full_name": "craftzdog/dotfiles-public",
-    "stargazers_count": 4138,
+    "stargazers_count": 4153,
     "open_issues_count": 11,
-    "forks_count": 957
+    "forks_count": 956
   },
   {
     "full_name": "mdirshaddev/service-portal-docs",
@@ -152,7 +158,7 @@
   {
     "full_name": "mdirshaddev/whaaaatsapp",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 6,
     "forks_count": 0
   },
   {
@@ -164,19 +170,13 @@
   {
     "full_name": "mdirshaddev/tech-interview-handbook",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "mdirshaddev/wallis.dev",
     "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/vite",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 4,
     "forks_count": 0
   }
 ]
