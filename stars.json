@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "theodorusclarence/ts-nextjs-tailwind-starter",
+    "stargazers_count": 1324,
+    "open_issues_count": 2,
+    "forks_count": 187
+  },
+  {
     "full_name": "dannyhw/react-native-storybook-starter",
     "stargazers_count": 26,
     "open_issues_count": 1,
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "janarosmonaliev/github-globe",
-    "stargazers_count": 243,
+    "stargazers_count": 244,
     "open_issues_count": 2,
-    "forks_count": 100
+    "forks_count": 102
   },
   {
     "full_name": "mdirshaddev/next-typescript-pwa-starter",
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "zeroabsolute/Terraform-AWS-ECS",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 13
   },
@@ -121,33 +127,33 @@
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 18271,
-    "open_issues_count": 358,
-    "forks_count": 1056
+    "stargazers_count": 18333,
+    "open_issues_count": 364,
+    "forks_count": 1063
   },
   {
-    "full_name": "mdirshaddev/mdirshaddev.github.io",
-    "stargazers_count": 1,
+    "full_name": "mdirshaddev/mdirshaddev.github.io-demo",
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "panagiop/node.js-clean-architecture",
     "stargazers_count": 141,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 27
   },
   {
     "full_name": "total-typescript/type-transformations-workshop",
     "stargazers_count": 564,
     "open_issues_count": 1,
-    "forks_count": 78
+    "forks_count": 80
   },
   {
     "full_name": "craftzdog/dotfiles-public",
-    "stargazers_count": 4153,
+    "stargazers_count": 4170,
     "open_issues_count": 11,
-    "forks_count": 956
+    "forks_count": 962
   },
   {
     "full_name": "mdirshaddev/service-portal-docs",
@@ -169,12 +175,6 @@
   },
   {
     "full_name": "mdirshaddev/tech-interview-handbook",
-    "stargazers_count": 1,
-    "open_issues_count": 4,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/wallis.dev",
     "stargazers_count": 1,
     "open_issues_count": 4,
     "forks_count": 0
