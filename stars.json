@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "mdirshaddev/mdirshaddev.github.io",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "theodorusclarence/ts-nextjs-tailwind-starter",
-    "stargazers_count": 1326,
+    "stargazers_count": 1332,
     "open_issues_count": 2,
-    "forks_count": 187
+    "forks_count": 188
   },
   {
     "full_name": "dannyhw/react-native-storybook-starter",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "janarosmonaliev/github-globe",
-    "stargazers_count": 244,
+    "stargazers_count": 246,
     "open_issues_count": 2,
-    "forks_count": 102
+    "forks_count": 103
   },
   {
     "full_name": "mdirshaddev/next-typescript-pwa-starter",
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 18391,
-    "open_issues_count": 369,
-    "forks_count": 1071
+    "stargazers_count": 18449,
+    "open_issues_count": 373,
+    "forks_count": 1078
   },
   {
     "full_name": "mdirshaddev/mdirshaddev.github.io-demo",
@@ -139,21 +145,21 @@
   },
   {
     "full_name": "panagiop/node.js-clean-architecture",
-    "stargazers_count": 142,
+    "stargazers_count": 143,
     "open_issues_count": 0,
     "forks_count": 27
   },
   {
     "full_name": "total-typescript/type-transformations-workshop",
-    "stargazers_count": 566,
-    "open_issues_count": 1,
-    "forks_count": 81
+    "stargazers_count": 567,
+    "open_issues_count": 0,
+    "forks_count": 84
   },
   {
     "full_name": "craftzdog/dotfiles-public",
-    "stargazers_count": 4183,
-    "open_issues_count": 11,
-    "forks_count": 967
+    "stargazers_count": 4198,
+    "open_issues_count": 13,
+    "forks_count": 970
   },
   {
     "full_name": "mdirshaddev/service-portal-docs",
@@ -171,12 +177,6 @@
     "full_name": "mdirshaddev/web-skills",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/tech-interview-handbook",
-    "stargazers_count": 1,
-    "open_issues_count": 4,
     "forks_count": 0
   }
 ]
