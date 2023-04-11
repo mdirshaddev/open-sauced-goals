@@ -7,14 +7,14 @@
   },
   {
     "full_name": "daniel-jebarson/web-chat-app",
-    "stargazers_count": 24,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "mikepenz/release-changelog-builder-action",
     "stargazers_count": 545,
-    "open_issues_count": 13,
+    "open_issues_count": 2,
     "forks_count": 73
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 364089,
-    "open_issues_count": 201,
-    "forks_count": 31612
+    "stargazers_count": 364269,
+    "open_issues_count": 212,
+    "forks_count": 31646
   },
   {
     "full_name": "mdirshaddev/pnpm-next-storybook",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "theodorusclarence/ts-nextjs-tailwind-starter",
-    "stargazers_count": 1773,
-    "open_issues_count": 3,
-    "forks_count": 279
+    "stargazers_count": 1789,
+    "open_issues_count": 4,
+    "forks_count": 280
   },
   {
     "full_name": "dannyhw/react-native-storybook-starter",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 20634,
-    "open_issues_count": 416,
-    "forks_count": 1365
+    "stargazers_count": 20722,
+    "open_issues_count": 420,
+    "forks_count": 1373
   },
   {
     "full_name": "mdirshaddev/pnpm-workspace-web-admin-mobile-next-app",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "panagiop/node.js-clean-architecture",
-    "stargazers_count": 170,
+    "stargazers_count": 177,
     "open_issues_count": 0,
-    "forks_count": 35
+    "forks_count": 36
   }
 ]
