@@ -1,9 +1,9 @@
 [
   {
     "full_name": "refinedev/refine",
-    "stargazers_count": 9956,
-    "open_issues_count": 18,
-    "forks_count": 887
+    "stargazers_count": 10018,
+    "open_issues_count": 22,
+    "forks_count": 895
   },
   {
     "full_name": "mdirshaddev/mdirshaddev.com",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "mikepenz/release-changelog-builder-action",
-    "stargazers_count": 548,
+    "stargazers_count": 552,
     "open_issues_count": 9,
     "forks_count": 75
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 364958,
-    "open_issues_count": 193,
-    "forks_count": 31753
+    "stargazers_count": 365090,
+    "open_issues_count": 179,
+    "forks_count": 31782
   },
   {
     "full_name": "mdirshaddev/pnpm-next-storybook",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "theodorusclarence/ts-nextjs-tailwind-starter",
-    "stargazers_count": 1856,
+    "stargazers_count": 1868,
     "open_issues_count": 5,
     "forks_count": 289
   },
@@ -69,7 +69,7 @@
     "full_name": "mrwade/form-hub",
     "stargazers_count": 9,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "mdirshaddev/sharemem",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 20955,
-    "open_issues_count": 428,
-    "forks_count": 1403
+    "stargazers_count": 21029,
+    "open_issues_count": 423,
+    "forks_count": 1413
   },
   {
     "full_name": "mdirshaddev/pnpm-workspace-web-admin-mobile-next-app",
