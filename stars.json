@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "mk668a/react-vite-crxjs-chrome-boilerplate",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "refinedev/refine",
-    "stargazers_count": 10266,
+    "stargazers_count": 10364,
     "open_issues_count": 14,
-    "forks_count": 918
+    "forks_count": 921
   },
   {
     "full_name": "mdirshaddev/mdirshaddev.com",
@@ -13,14 +19,14 @@
   },
   {
     "full_name": "daniel-jebarson/web-chat-app",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "mikepenz/release-changelog-builder-action",
     "stargazers_count": 554,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 77
   },
   {
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 365634,
-    "open_issues_count": 203,
-    "forks_count": 31877
+    "stargazers_count": 365824,
+    "open_issues_count": 201,
+    "forks_count": 31908
   },
   {
     "full_name": "mdirshaddev/pnpm-next-storybook",
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "theodorusclarence/ts-nextjs-tailwind-starter",
-    "stargazers_count": 1903,
+    "stargazers_count": 1912,
     "open_issues_count": 5,
     "forks_count": 293
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 21194,
-    "open_issues_count": 465,
-    "forks_count": 1431
-  },
-  {
-    "full_name": "mdirshaddev/pnpm-workspace-web-admin-mobile-next-app",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 21236,
+    "open_issues_count": 458,
+    "forks_count": 1424
   }
 ]
