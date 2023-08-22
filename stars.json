@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "neondatabase/github-automations",
+    "stargazers_count": 5,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "ChaoningZhang/MobileSAM",
-    "stargazers_count": 3160,
-    "open_issues_count": 36,
-    "forks_count": 854
+    "stargazers_count": 3175,
+    "open_issues_count": 37,
+    "forks_count": 855
   },
   {
     "full_name": "iam-veeramalla/aws-devops-zero-to-hero",
-    "stargazers_count": 1592,
-    "open_issues_count": 13,
-    "forks_count": 1292
+    "stargazers_count": 1809,
+    "open_issues_count": 14,
+    "forks_count": 1425
   },
   {
     "full_name": "mdirshaddev/mdirshaddev.com-workspace",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "xiangsx/gpt4free-ts",
-    "stargazers_count": 6316,
+    "stargazers_count": 6333,
     "open_issues_count": 35,
-    "forks_count": 1267
+    "forks_count": 1272
   },
   {
     "full_name": "PenguinOfWar/strapi-plugin-paper-trail",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "digitros/nextjs-fastapi",
-    "stargazers_count": 164,
+    "stargazers_count": 165,
     "open_issues_count": 2,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "mk668a/react-vite-crxjs-chrome-boilerplate",
@@ -49,20 +55,20 @@
   },
   {
     "full_name": "refinedev/refine",
-    "stargazers_count": 13541,
-    "open_issues_count": 22,
-    "forks_count": 1112
+    "stargazers_count": 13594,
+    "open_issues_count": 26,
+    "forks_count": 1116
   },
   {
     "full_name": "daniel-jebarson/web-chat-app",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "mikepenz/release-changelog-builder-action",
-    "stargazers_count": 583,
-    "open_issues_count": 8,
+    "stargazers_count": 585,
+    "open_issues_count": 5,
     "forks_count": 88
   },
   {
@@ -74,14 +80,14 @@
   {
     "full_name": "mdirshaddev/mdirshaddev.github.io",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 371118,
-    "open_issues_count": 250,
-    "forks_count": 33156
+    "stargazers_count": 371204,
+    "open_issues_count": 260,
+    "forks_count": 33180
   },
   {
     "full_name": "mdirshaddev/pnpm-next-storybook",
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "theodorusclarence/ts-nextjs-tailwind-starter",
-    "stargazers_count": 2181,
+    "stargazers_count": 2192,
     "open_issues_count": 3,
-    "forks_count": 335
+    "forks_count": 337
   },
   {
     "full_name": "dannyhw/react-native-storybook-starter",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "janarosmonaliev/github-globe",
-    "stargazers_count": 336,
+    "stargazers_count": 337,
     "open_issues_count": 3,
     "forks_count": 126
   },
@@ -169,12 +175,6 @@
   },
   {
     "full_name": "mdirshaddev/node-express-postgres-docker-compose",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mdirshaddev/nodebestpractices",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
